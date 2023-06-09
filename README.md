@@ -1,2 +1,2 @@
 # Barra_de_Progreso
-Brra de progreso o de carga para un sitio web
+Barra de progreso o de carga para un sitio web
